@@ -1,0 +1,26 @@
+{
+    "itemGroup.jaopca": "JAOPCA",
+
+    "block.jaopca.storage_blocks": "Block %s",
+    "item.jaopca.dusts": "Bubuk %s",
+    "item.jaopca.nuggets": "Kepingan %s",
+    "item.jaopca.tiny_dusts": "Bubuk %s yang Sangat Sedikit",
+    "item.jaopca.small_dusts": "Bubuk %s yang Sedikit",
+    "fluid.jaopca.molten": "%s Cair",
+    "item.jaopca.molten": "Ember %s Cair",
+
+    "item.jaopca.mekanism_dirty_dusts": "Bubuk %s Kotor",
+    "item.jaopca.mekanism_clumps": "Gumpalan %s",
+    "item.jaopca.mekanism_shards": "Pecahan %s",
+    "item.jaopca.mekanism_crystals": "Kristal %s",
+    "gas.jaopca.mekanism_dirty_slurry": "Bubur %s",
+    "gas.jaopca.mekanism_clean_slurry": "Bubur %s Bersih",
+
+    "item.jaopca.flux_grits": "Kerikil %s",
+
+    "item.jaopca.omegacraft_dirty_dusts": "Bubuk %s Kotor",
+
+    "item.jaopca.silents_mechanisms_chunks": "Kepingam Biji%s",
+
+    "item.jaopca.create_crushed_ores": "Biji %s Hancur"
+}
